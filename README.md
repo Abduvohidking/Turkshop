@@ -1,2 +1,2 @@
-# Turkshop
+# Python Vazifa
 aaaaa
