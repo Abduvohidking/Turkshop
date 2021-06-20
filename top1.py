@@ -1,2 +1,2 @@
 a = int(input("Son kiriting\n>>>"))
-print(f"Siz kiritgan sonning oxirgi raqami {a[-1]}")
+print(f"Siz kiritgan sonning oxirgi raqami {int(a[-1])}")
